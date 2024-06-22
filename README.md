@@ -2,18 +2,31 @@
 **Summary of Financial Performance**
 
 Expenditure
+
 •	Total Campaign Spend: £163.3k
+
 Reach and Engagement
+
 •	Total Impressions: 14,645.4k
+
 •	Total Clicks: 181.6k
+
 Social Media Engagement
+
 •	Total Likes: 608.5k
+
 •	Total Shares: 119.3k
+
 •	Total Comments: 71.5k
+
 Conversions
+
 •	Total Conversions: 40.3k
+
 •	Total Conversion Value: £1,731.7k
+
 Profit
+
 •	Profit: £1,568.5k
 
 **Key Takeaways**
