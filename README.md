@@ -30,15 +30,24 @@ Profit
 •	Profit: £1,568.5k
 
 **Key Takeaways**
+
 •	The campaign generated a total conversion value of £1,731.7k, resulting in a profit of £1,568.5k.
+
 •	The campaign reached a massive audience of over 14.6 million impressions and generated over 181,000 clicks.
+
 •	Social media engagement was strong, with over 608,000 likes, 119,000 shares, and 71,500 comments.
+
 •	The conversion rate was 22.2%, indicating that over one in five people who clicked on an ad ultimately converted.
+
 •	The discount conversion rate was 559 higher than the collection conversion rate in the month of September.
+
 •	Facebook has the highest spend (71,612.54) compared to Pinterest (28,243.52) with Facebook's spend being 153.55% higher.
+
 •	In Manchester, customer spending resulted in much higher sales (conversion value) than the amount spent on marketing (spend). The difference was £592,608. Conversely, London seems to be an outlier. Despite having the highest marketing spend, it generated the least conversion value.
+
 •	Birmingham achieved the highest engagement rate (likes, shares, comments) despite having the lowest marketing spend compared to other locations.
 Overall, the campaign was a resounding success, demonstrating the power of effective marketing strategies.
+
 
 
 **Data Analysis: Unlocking Insights and Justifications**
